@@ -1,0 +1,72 @@
+2016-01-07 21:03:46,932 CRIT Supervisor running as root (no user in config file)
+2016-01-07 21:03:46,971 INFO RPC interface 'supervisor' initialized
+2016-01-07 21:03:46,971 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 21:03:46,972 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 21:03:46,974 INFO supervisord started with pid 9
+2016-01-07 21:03:47,979 INFO spawned: 'gitit' with pid 10
+2016-01-07 21:03:49,927 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 21:07:22,687 WARN received SIGHUP indicating restart request
+2016-01-07 21:07:23,127 CRIT Supervisor running as root (no user in config file)
+2016-01-07 21:07:23,461 INFO RPC interface 'supervisor' initialized
+2016-01-07 21:07:23,461 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 21:07:23,462 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 21:07:23,465 INFO supervisord started with pid 6
+2016-01-07 21:07:24,471 INFO spawned: 'gitit' with pid 7
+2016-01-07 21:07:25,474 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 21:20:37,926 WARN received SIGHUP indicating restart request
+2016-01-07 21:20:37,927 INFO waiting for gitit to die
+2016-01-07 21:20:38,447 CRIT Supervisor running as root (no user in config file)
+2016-01-07 21:20:38,796 INFO RPC interface 'supervisor' initialized
+2016-01-07 21:20:38,797 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 21:20:38,797 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 21:20:38,802 INFO supervisord started with pid 6
+2016-01-07 21:20:39,808 INFO spawned: 'gitit' with pid 7
+2016-01-07 21:20:40,812 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 21:56:26,685 WARN received SIGHUP indicating restart request
+2016-01-07 21:56:27,154 CRIT Supervisor running as root (no user in config file)
+2016-01-07 21:56:27,487 INFO RPC interface 'supervisor' initialized
+2016-01-07 21:56:27,487 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 21:56:27,488 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 21:56:27,493 INFO supervisord started with pid 7
+2016-01-07 21:56:28,496 INFO spawned: 'gitit' with pid 8
+2016-01-07 21:56:28,574 INFO exited: gitit (exit status 1; not expected)
+2016-01-07 21:56:29,579 INFO spawned: 'gitit' with pid 11
+2016-01-07 21:56:29,700 INFO exited: gitit (exit status 1; not expected)
+2016-01-07 21:56:31,708 INFO spawned: 'gitit' with pid 14
+2016-01-07 21:56:31,781 INFO exited: gitit (exit status 1; not expected)
+2016-01-07 21:56:34,788 INFO spawned: 'gitit' with pid 17
+2016-01-07 21:56:34,887 INFO exited: gitit (exit status 1; not expected)
+2016-01-07 21:56:35,892 INFO gave up: gitit entered FATAL state, too many start retries too quickly
+2016-01-07 21:57:53,331 CRIT Supervisor running as root (no user in config file)
+2016-01-07 21:57:53,685 INFO RPC interface 'supervisor' initialized
+2016-01-07 21:57:53,685 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 21:57:53,686 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 21:57:53,691 INFO supervisord started with pid 8
+2016-01-07 21:57:54,695 INFO spawned: 'gitit' with pid 9
+2016-01-07 21:57:55,697 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 22:00:59,892 WARN received SIGHUP indicating restart request
+2016-01-07 22:01:00,491 CRIT Supervisor running as root (no user in config file)
+2016-01-07 22:01:00,820 INFO RPC interface 'supervisor' initialized
+2016-01-07 22:01:00,820 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 22:01:00,821 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 22:01:00,824 INFO supervisord started with pid 6
+2016-01-07 22:01:01,827 INFO spawned: 'gitit' with pid 7
+2016-01-07 22:01:02,830 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 22:11:50,948 CRIT Supervisor running as root (no user in config file)
+2016-01-07 22:11:51,276 INFO RPC interface 'supervisor' initialized
+2016-01-07 22:11:51,277 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 22:11:51,277 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 22:11:51,279 INFO supervisord started with pid 7
+2016-01-07 22:11:52,283 INFO spawned: 'gitit' with pid 8
+2016-01-07 22:11:53,286 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 22:15:52,237 WARN received SIGTERM indicating exit request
+2016-01-07 22:15:52,237 INFO waiting for gitit to die
+2016-01-07 22:15:52,241 INFO stopped: gitit (terminated by SIGTERM)
+2016-01-07 22:27:09,209 CRIT Supervisor running as root (no user in config file)
+2016-01-07 22:27:09,262 INFO RPC interface 'supervisor' initialized
+2016-01-07 22:27:09,263 WARN cElementTree not installed, using slower XML parser for XML-RPC
+2016-01-07 22:27:09,264 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-01-07 22:27:09,268 INFO supervisord started with pid 6
+2016-01-07 22:27:10,271 INFO spawned: 'gitit' with pid 7
+2016-01-07 22:27:11,275 INFO success: gitit entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-01-07 22:48:10,558 WARN received SIGHUP indicating restart request
